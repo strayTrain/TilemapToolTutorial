@@ -1,0 +1,2 @@
+This project makes use of sprites by the excellent www.kenney.nl
+You can find the whole tileset at http://opengameart.org/content/platformer-tiles
